@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Teaching 教學
+- title: Learning 作品集
   url: /teaching/
-  excerpt: "含体验式教学及混合式教学"
+  excerpt: "网页设计及信息可视化课程作品"
   image: 300x200.gif
 
-- title: i18nl10n
+- title: 文章（网页设计）
   url: /i18nl10n/
-  excerpt: "含＂一带一路＂倡议"
-  image: 300x200.gif
+  excerpt: "网页设计课程学习"
+  image: article1.gif
 
-- title: SDG
+- title: 文章（信息可视化）
   url: /SDG/
-  excerpt: "Sustainable Development Goals，亦译可持续发展，含＂生态文明＂倡议"
+  excerpt: "网页设计课程学习"
   image: 300x200.gif
 
-- title: Contact 聯絡我
+- title: Contact 联络我
   url: /contact/
   excerpt: "联络我"
   image: 300x200.gif 
