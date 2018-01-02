@@ -12,7 +12,8 @@ categories: SDG portfolio visualization
 <div class="col-md-12">
 <div style="background: #EA1D2D; color:white" class="btn" markdown="1">
 #### 目标1：在全世界消除一切形式的贫困
-<div class="row">
+</div>
+</div>
 <div class="col-md-3"><!-- left -->
 
 生活在极端贫困中的人口数量显著下降   
