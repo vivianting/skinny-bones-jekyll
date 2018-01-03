@@ -2,7 +2,7 @@
 layout: article
 title:  "如何利用Tableua制作地图"
 date:   2017-1-4 0:30:20 +0800
-categories: keshihuanote
+categories: infovis_keshihua
 image:
   teaser: tableau1.JPG
   feature: 
