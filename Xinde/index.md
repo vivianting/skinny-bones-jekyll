@@ -3,6 +3,9 @@ layout: article
 title:  "心得"
 date:   2018-1-4 3:28:50 +0800
 categories: Xinde
+image:
+  teaser: xinde.gif
+  feature: xinde.gif
 ---
 
 
