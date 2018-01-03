@@ -1,9 +1,14 @@
 # Site navigation links
 
 - title: Learning 作品集
-  url: /WORKS/
-  excerpt: "网页设计及信息可视化课程作品"
+  url: /portfolio/
+  excerpt: "课程作品"
   image: zuopin.gif
+  
+- title: 可视化作品集
+  url: /portfolio/
+  excerpt: "信息可视化课程作品"
+  image: works of keshihua.gif
 
 - title: 文章（网页设计）
   url: /RWD/
@@ -24,3 +29,4 @@
   url: /contact/
   excerpt: "联络我"
   image: contact.gif 
+  
