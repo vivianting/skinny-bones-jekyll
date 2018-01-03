@@ -3,24 +3,24 @@
 - title: Learning 作品集
   url: /WORKS/
   excerpt: "网页设计及信息可视化课程作品"
-  image: 作品集.gif
+  image: zuopin.gif
 
 - title: 文章（网页设计）
   url: /RWD/
   excerpt: "网页设计课程学习"
-  image: article1.png
+  image: wangye.gif
 
 - title: 文章（信息可视化）
   url: /SDG/
   excerpt: "网页设计课程学习"
-  image: article1.png
+  image: keshihua.gif
 
 - title: 心得
   url: /Xinde/
   excerpt: "心得体会"
-  image: article1.png
+  image: xinde.gif
   
 - title: Contact 联络我
   url: /contact/
   excerpt: "联络我"
-  image: 300x200.gif 
+  image: contact.gif 
