@@ -3,6 +3,9 @@
  title:  "欲用GitHub空间，可先自装GitHub Desktop"
  date:   2018-1-4 3:07:50 +0800
  categories: RWD_web
+ image:
+  teaser: github.jpg
+  feature: github.jpg
  ---
  欲用 `GitHub` 空间，可先自裝 [GitHub Desktop][GitHub_Desktop] 开发环境工具。
  
