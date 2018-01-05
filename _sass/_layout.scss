@@ -73,15 +73,15 @@
 			}
 			&:after {
 				width: 0;
-				background-color: rgb(208,230,255);
+				background-color: rgbrgb(39,39,255);
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
 			&:hover {
-				color: rgb(208,230,255);
-				background-color: rgb(255,252,157);
+				color: rgbrgb(39,39,255);
+				background-color: rgbrgb(255,249,59);
 			}
 		}
 	}
