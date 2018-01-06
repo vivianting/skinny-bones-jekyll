@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau个人专项作品之药房"
 date:   2018-1-4 2:21:50 +0800
-categories: infovis_keshihua
+categories: posts infovis
 image:
   teaser: tableau1.JPG
   feature: tableau1.JPG  
