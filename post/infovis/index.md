@@ -1,6 +1,6 @@
 
 <div class="tiles">
-{% for post in site.categories.posts infovis_notes%}
+{% for post in site.categories.infovis_notes%}
   {% include post-grid.html %}
 {% endfor %}
 </div>
