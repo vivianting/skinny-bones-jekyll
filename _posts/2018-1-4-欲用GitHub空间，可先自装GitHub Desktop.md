@@ -2,7 +2,7 @@
 layout: default
 title:  "欲用GitHub空间，可先自装GitHub Desktop"
 date:   2018-1-4 3:07:50 +0800
-categories: rwd
+categories: post_rwd
 image:
   teaser: github.jpg
   feature: github.jpg  
