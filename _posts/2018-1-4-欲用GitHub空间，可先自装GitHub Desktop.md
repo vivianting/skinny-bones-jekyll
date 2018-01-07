@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title:  "使用GitHub空间，可先自装GitHub Desktop"
 date:   2018-1-4 3:07:50 +0800
 categories: post_rwd
