@@ -12,11 +12,7 @@ image:
 ---
 五大药房在中国的分布情况
 
-<center>
- image: 
-   feature: tableau_.jpg
-   teaser:
-</center>
+<img style="max-width:500px" src="tableau_.jpg">
 		
 <div class="tiles">
 {% for post in site.categories.posts infovis %}
