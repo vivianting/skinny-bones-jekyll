@@ -12,7 +12,7 @@ image:
 ---
 五大药房在中国的分布情况
 
-![tableau](images/tableau_.jpg)
+![tableau](/images/tableau_.jpg/)
 
 		
 <div class="tiles">
