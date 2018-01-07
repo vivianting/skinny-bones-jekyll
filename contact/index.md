@@ -11,6 +11,6 @@ tags: []
 
 
 <script src='https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js'></script>  
-### 周苑婷
+### 简介
 
 中山大学南方学院，网络与新媒体专业大二学生，修读网络与新媒体相关课程
