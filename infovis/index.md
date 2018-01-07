@@ -11,7 +11,7 @@ image:
   
 ---
 
-[![image](https://vivianting.github.io/images/tableau_story.png "title")](https://public.tableau.com/profile/.1847#!/vizhome/_18112/2?publish=yes)
+[![image](https://vivianting.github.io/images/tableau_story.png "tableau_story")](https://public.tableau.com/profile/.1847#!/vizhome/_18112/2?publish=yes)
 
 
 		
