@@ -9,7 +9,7 @@ image:
   
   
 ---
-欲用GitHub空间，可先自裝[GitHub Desktop][GitHub_Desktop]开发环境工具。
+欲用GitHub空间，可先自裝[GitHub Desktop][GitHub_Desktop]开发环境工具
  
 ## 怎样装 GitHub Desktop？
 - 现在2017年年底的情境下，在中国的网路环境装 `GitHub Desktop`，有时会考验所在地区的网络速度和安装人的人品。
