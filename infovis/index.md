@@ -10,10 +10,8 @@ image:
   teaser:
   
 ---
-五大药房在中国的分布情况
 
 ![image](https://vivianting.github.io/images/tableau_story.png)
-
 		
 <div class="tiles">
 {% for post in site.categories.posts infovis %}
