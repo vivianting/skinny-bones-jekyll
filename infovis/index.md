@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "可视化作品-五大药房在中国的分布情况"
+title: "可视化作品集"
 date: 2018-1-7T15:25:45-04:00
 modified:
 excerpt: ""
