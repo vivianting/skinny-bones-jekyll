@@ -5,11 +5,10 @@ date:   2018-1-4 3:07:50 +0800
 categories: post_rwd
 image:
   teaser: github.jpg
-  feature: github.jpg 
-  
-  
+  feature: github.jpg  
 ---
 欲用GitHub空间，可先自裝[GitHub Desktop][GitHub_Desktop]开发环境工具
+ 
  
 ## 怎样装 GitHub Desktop？
 - 现在2017年年底的情境下，在中国的网路环境装 `GitHub Desktop`，有时会考验所在地区的网络速度和安装人的人品。
@@ -23,6 +22,6 @@ image:
  
 [GitHub_Desktop]: https://desktop.github.com/
 [Github官网]: https://github.com/
-[文科妹子用GitHub]: https://www.zhihu.com/question/20070065 
+[文科妹子用GitHub]: https://www.zhihu.com/question/20070065
 
 
