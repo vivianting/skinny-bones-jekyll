@@ -12,7 +12,7 @@ image:
 ---
 五大药房在中国的分布情况
 
-![tableau](/images/tableau_.jpg/)
+![image](https://vivianting.github.io/images/tableau_story.png)
 
 		
 <div class="tiles">
