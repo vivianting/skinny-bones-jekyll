@@ -10,8 +10,9 @@ image:
   teaser:
   
 ---
+[![image](https://vivianting.github.io/images/tableau_story.png "https://public.tableau.com/profile/.1847#!/vizhome/_18112/2?publish=yes")] #(你的链接地址)
 
-![image](https://vivianting.github.io/images/tableau_story.png)
+#![image](https://vivianting.github.io/images/tableau_story.png)
 		
 <div class="tiles">
 {% for post in site.categories.posts infovis %}
