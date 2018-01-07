@@ -12,10 +12,11 @@ image:
 ---
 五大药房在中国的分布情况
 
-<div align="center">
-        <iframe src="https://public.tableau.com/profile/.1847#!/vizhome/_18112/1?publish=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=true"
-         width="830px" height="760px"> </iframe>
-        </div>
+<center>
+ image: 
+   feature: tableau_.jpg
+   teaser:
+</center>
 		
 <div class="tiles">
 {% for post in site.categories.posts infovis %}
