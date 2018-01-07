@@ -14,7 +14,7 @@ image:
 
 <div align="center">
         <iframe src="https://public.tableau.com/profile/.1847#!/vizhome/_18112/1?publish=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=true"
-         width="700px" height="680px"> </iframe>
+         width="800px" height="760px"> </iframe>
         </div>
 		
 <div class="tiles">
