@@ -52,7 +52,7 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 </div> 
 
 
-<div class="col-sm-5" markdown="1" ><!-- right -->
+<div class="col-sm-4" markdown="1" ><!-- right -->
 ##### 各省：各省的药房分布数量之五大药房
 
 ![各省](https://vivianting.github.io/images/pharmacy_chart.png)
