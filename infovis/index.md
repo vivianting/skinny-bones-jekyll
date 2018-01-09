@@ -40,11 +40,12 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 <div class="col-sm-8" markdown="1" ><!-- right -->
 ##### 地图：五大药房的地理分布情况
 ![地图](https://vivianting.github.io/images/pharmacy_map.png)
+<right>
 - 大参林、一心堂的分布显示为集中性。大参林主要分布在两广地区，一心堂大多分布在我国西南部，在云南省最为集中
 - 老百姓、同仁堂的分布范围较广，在新疆、甘肃也有分布
 - 同仁堂主要分布在中部和东部地区
 - 国大药房的分布也体现出了聚集分布的特征，体现为在各个省份的某一块区域的聚集分布
-
+</right>
 
 ##### 各省比较：五大药房在各省的数量分布及比对
 - 大参林在广东省的分布最多，一心堂在云南省的分布最多
