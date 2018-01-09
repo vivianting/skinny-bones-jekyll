@@ -36,7 +36,7 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 </div>
 
 
-<div class="col-sm-6" markdown="1" ><!-- center -->
+<div class="col-sm-4" markdown="1" ><!-- center -->
 ##### 地图：五大药房的地理分布情况
 ![地图](https://vivianting.github.io/images/pharmacy_map.png)
 - 大参林、一心堂的分布显示为集中性。大参林主要分布在两广地区，一心堂大多分布在我国西南部，在云南省最为集中
@@ -52,7 +52,7 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 </div> 
 
 
-<div class="col-sm-6" markdown="1" ><!-- right -->
+<div class="col-sm-5" markdown="1" ><!-- right -->
 ##### 各省：各省的药房分布数量之五大药房
 
 ![各省](https://vivianting.github.io/images/pharmacy_chart.png)
