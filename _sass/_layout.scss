@@ -413,16 +413,29 @@
 		outline: 2cm #cbecff solid;
 	}
 
-
-
-		
     p {
-	    font-size: 0.625rem !important;		
+	    font-size: 0.625rem !important;
+		line-height: 0.7rem !important;
+		margin:6px !important;
 	}
 	h1 {
-	    font-size: 1rem !important;		
+	    font-size: 1.2rem !important;
+		line-height: 1.2rem !important;
+		margin: 8px !important;
 	}
 	h2, h3, h4, h5, h6 {
-	    font-size: 0.75rem !important;		
+	    font-size: 0.85rem !important;
+		line-height: 0.9rem !important;
+		margin-top: 4px !important;
+		margin-bottom: 2px !important;
+	}
+	ul{
+		list-style: disc !important;
+		padding-left: 8px !important;
+	}
+	li {
+		font-size: 0.75rem !important;
+		line-height: 0.8rem !important;
+		margin-bottom: 4px ;
 	}
 }
