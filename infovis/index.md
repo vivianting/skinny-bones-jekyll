@@ -16,7 +16,7 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 </style>
 
 <h4>五大药房在中国的分布情况</h4>
-大参林_国大药房_老百姓_同仁堂_一心堂 +* [点击此处可跳至本作品的Tableau Public](https://vivianting.github.io/infovis/Group_P/Group_P.html)
+大参林_国大药房_老百姓_同仁堂_一心堂 *[点击此处可跳至本作品的Tableau Public](https://vivianting.github.io/infovis/Group_P/Group_P.html)
 
 此研究根据高德地图搜索结果得出<b>4271笔</b>数据
 
