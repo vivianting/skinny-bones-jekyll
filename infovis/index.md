@@ -27,7 +27,15 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 
 最多的是国大药房，有875所。
 ![总数比较](https://vivianting.github.io/images/pharmacy_2.png)
+
+##### 盒须图：五大药房地理分布差异比较
+- 大参林、一心堂分布的集中性明显。
+- 大参林在广东省的分布数最大，经搜索得知广东省为其发源地
+- 一心堂在云南省的分部数最大，经搜索得知云南省是其发源地 
+![盒须图](https://vivianting.github.io/images/pharmacy_box.png)
+
 </div>
+
 
 <div class="col-sm-9" markdown="1" ><!-- right -->
 ##### 地图：五大药房的地理分布情况
@@ -37,6 +45,11 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 - 同仁堂主要分布在中部和东部地区
 - 国大药房的分布也体现出了聚集分布的特征，体现为在各个省份的某一块区域的聚集分布
 
+
+##### 各省比较：五大药房在各省的数量分布及比对
+- 大参林在广东省的分布最多，一心堂在云南省的分布最多
+- 同仁堂的分布范围最广，在有数据的所有省分中都有分布，次之为老百姓
+![各省比较](https://vivianting.github.io/images/pharmacy_1.png)
 </div> 
 
 
