@@ -382,11 +382,11 @@
   margin-top: 10mm;
 }
 
-* including bootstrap print stylces :
+/* including bootstrap print stylces :
 +https://daneveland.com/content/printing-bootstrap
 */
 @media print {
-     masthead, nav, button, html [type=button], .menu-screen, #site-footer,  
+     #masthead, nav, button, html [type=button], .menu-screen, #site-footer,  
      .noprint, div.alert, header, .group-media, .btn, .footer, form,  #comments,   .nav, ul.links.list-inline, ul.action-links {
         display: none;
     }
