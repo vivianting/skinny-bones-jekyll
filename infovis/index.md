@@ -21,7 +21,7 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 此研究根据高德地图搜索结果得出<b>4271笔</b>数据
 
 <div class="row">
-<div class="col-sm-7" markdown="1"><!-- left -->
+<div class="col-sm-5" markdown="1"><!-- left -->
 ##### 总数比较：五大药房在中国的分布总数相差不大
 最少的是同仁堂，有825所；最多的是国大药房，有875所
 ![总数比较](https://vivianting.github.io/images/pharmacy_2.png)
