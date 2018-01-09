@@ -24,7 +24,6 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 <div class="col-sm-4" markdown="1"><!-- left -->
 ##### 总数比较：五大药房在中国的分布总数相差不大
 最少的是同仁堂，有825所；
-
 最多的是国大药房，有875所。
 ![总数比较](https://vivianting.github.io/images/pharmacy_2.png)
 
@@ -37,17 +36,14 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 </div>
 
 
-<div class="col-sm-8" markdown="1" ><!-- right -->
+<div class="col-sm-6" markdown="1" ><!-- center -->
 ##### 地图：五大药房的地理分布情况
 ![地图](https://vivianting.github.io/images/pharmacy_map.png)
+- 大参林、一心堂的分布显示为集中性。大参林主要分布在两广地区，一心堂大多分布在我国西南部，在云南省最为集中
+- 老百姓、同仁堂的分布范围较广，在新疆、甘肃也有分布
+- 同仁堂主要分布在中部和东部地区
+- 国大药房的分布也体现出了聚集分布的特征，体现为在各个省份的某一块区域的聚集分布
 
-  <div>
-    <img style="float:left">
-    - 大参林、一心堂的分布显示为集中性。大参林主要分布在两广地区，一心堂大多分布在我国西南部，在云南省最为集中
-    - 老百姓、同仁堂的分布范围较广，在新疆、甘肃也有分布
-    - 同仁堂主要分布在中部和东部地区
-    - 国大药房的分布也体现出了聚集分布的特征，体现为在各个省份的某一块区域的聚集分布
-  </div>
   
 ##### 各省比较：五大药房在各省的数量分布及比对
 - 大参林在广东省的分布最多，一心堂在云南省的分布最多
@@ -56,6 +52,17 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 </div> 
 
 
+<div class="col-sm-6" markdown="1" ><!-- right -->
+##### 各省：各省的药房分布数量之五大药房
+
+![各省](https://vivianting.github.io/images/pharmacy_chart.png)
+
+- 广东省的药房分布总数最多，且五大药房都有分布；
+- 西藏和台湾没有数据，可能是没有分布或未录入高德地图
+- 在有数据的省份中，澳门最少
+- 药房的分布数与经济、人口、对药品的关注程度有关
+   - 广东省的经济发达、人口众多，药房分布数最大
+   - 云南省虽经济不在发达省份行列，但其对药品的重视程度较高，因而药房数量较多
 
 
 <hr>
