@@ -10,8 +10,23 @@ image:
   teaser:
   
 ---
+<style>
+h4{background: #ff3333; color:white; border-radius:6px; padding:6px;}
+h5{background: #0080ff; color:white; border-radius:3px; padding:3px;}
+</style>
 
-[![image](https://vivianting.github.io/images/tableau_story.png "tableau_story")](https://public.tableau.com/profile/.1847#!/vizhome/_18112/2?publish=yes)
+<h4>五大药房在中国的分布情况</h4>
+大参林_国大药房_老百姓_同仁堂_一心堂
+
+此研究根据高德地图搜索结果得出<b>4271笔</b>数据
+
+<div class="row">
+<div class="col-sm-7" markdown="1"><!-- left -->
+##### 总数比较：五大药房在中国的分布总数相差不大
+最少的是同仁堂，有825所；最多的是国大药房，有875所
+![总数比较](pharmacy_2.png)
+
+
 
 
 		
