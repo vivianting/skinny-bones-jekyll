@@ -64,7 +64,8 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
    - 广东省的经济发达、人口众多，药房分布数最大
    - 云南省虽经济不在发达省份行列，但其对药品的重视程度较高，因而药房数量较多
 
-
+</div>
+ 
 <hr>
 
 <br/>
