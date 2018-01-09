@@ -27,7 +27,7 @@ h5{background: #1a8dff; color:white; border-radius:3px; padding:3px;}
 
 最多的是国大药房，有875所。
 ![总数比较](https://vivianting.github.io/images/pharmacy_2.png)
-
+</div>
 
 <div class="col-sm-7" markdown="1" ><!-- right -->
 ##### 地图：五大药房的地理分布情况
